@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel de Vainilla ",
+      "precio": "100"
+    },
+    {
+      "id": 6,
+      "nombre": "Torta de Mango",
+      "precio": "425"
+    },
+    {
+      "id": 9,
+      "nombre": "Tarta de banana",
+      "precio": "95"
+    },
+    {
+      "nombre": "Chocolate en barra",
+      "precio": "95",
+      "id": 10
+    },
+    {
+      "nombre": "Café con Leche",
+      "precio": "95",
+      "id": 11
+    },
+    {
+      "nombre": "Torta de Manzana",
+      "precio": "350",
+      "id": 12
+    },
+    {
+      "nombre": "Frutillas con crema",
+      "precio": "125",
+      "id": 13
+    }
+  ]
+}
